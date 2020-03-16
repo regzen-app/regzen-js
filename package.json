@@ -1,6 +1,6 @@
 {
   "name": "regzen-client",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Regzen JavaScript Client",
   "main": "./dist/index.js",
   "files": [
