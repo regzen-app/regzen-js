@@ -1,6 +1,6 @@
 {
   "name": "regzen-client",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Regzen JavaScript Client",
   "main": "./dist/index.js",
   "files": [
@@ -22,7 +22,7 @@
   "devDependencies": {
     "@babel/cli": "^7.4.3",
     "@babel/core": "^7.4.3",
-    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-env": "^7.9.0",
     "rimraf": "^2.6.3",
     "rollup": "^1.11.0",
     "rollup-plugin-babel": "^4.3.3",
